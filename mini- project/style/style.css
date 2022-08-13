@@ -1,0 +1,45 @@
+body{
+background-color: #000000;
+font-family: sans-serif;
+}
+
+.container{
+    box-sizing: border-box;
+    width: 500px;
+    height: 400px;
+    background-color: #05051a;
+    margin: auto;
+    margin-top: 80px;
+    padding: 40px 0;
+    box-shadow: 0 0 20px rgb(16, 16, 18);
+    border-radius: 10px;
+}
+.logo{
+    width: 160px;
+    display: block;
+    margin: auto;
+    border: 2px double #E8F0F2;
+    border-radius: 50%;
+}
+.title{
+    width: 120px;
+    padding: 16px;
+    margin: auto;
+    font-size: 35px;
+    border-bottom: 7px solid #E8F0F2;
+    border-radius: 4px;
+    color: #E8F0F2;
+}
+.desc{
+    text-align: center;
+    color: #E8F0F2;
+}
+.social{
+    height: 60px;
+    background-color: #DBD8E3;
+    text-align: center;
+}
+.social img{
+    width: 40px;
+    margin: 10px;
+}
